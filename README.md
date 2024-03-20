@@ -1,2 +1,2 @@
 # javabasic
-java basic labs
+Karpenko java basic labs
